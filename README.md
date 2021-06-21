@@ -1,8 +1,8 @@
 <h1>Hello there, I'm Luciane</h1> 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&locale=en" alt="lucianets" />
-  <img height="180em"" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianets&show_icons=true&locale=en&layout=compact" alt="lucianets" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&locale=en" alt="lucianets" />
+  <img height="150em"" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianets&show_icons=true&locale=en&layout=compact" alt="lucianets" />
   </div>
   
 <div> 
