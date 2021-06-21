@@ -1,8 +1,8 @@
 <h1>Hello there, I'm Luciane</h1> 
 
 <div>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&locale=en" alt="lucianets" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianets&show_icons=true&locale=en&layout=compact" alt="lucianets" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&locale=en" alt="lucianets" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianets&show_icons=true&locale=en&layout=compact" alt="lucianets" /></p>
   </div>
   
 <div> 
