@@ -2,11 +2,11 @@
 
 <div>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&locale=en" alt="lucianets" /></p>
-  <p><img align=" center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianets&show_icons=true&locale=en&layout=compact" alt="lucianets" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianets&show_icons=true&locale=en&layout=compact" alt="lucianets" /></p>
   </div>
   
 <div> 
- 
+
   <img align="right" alt="baby-yoda" width="250" height="250" src="https://i.pinimg.com/originals/ab/5e/b3/ab5eb35116966e8869d71e8cb64f4671.gif"> 
    </div>
 
