@@ -1,16 +1,19 @@
 <h1>Hello there, I'm Luciane</h1> 
 
+<div> 
+ <p> ⚡ Fun fact I love star wars and books, so I'am studying system analysis and development :) </p>
+ </div> 
+ 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&locale=en" alt="lucianets" />
   <img height="150em"" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianets&show_icons=true&locale=en&layout=compact" alt="lucianets" /> </div>
-  
+ 
   <div> 
       <img align="right" alt="baby-yoda" width="250" height="150" src="https://i.pinimg.com/originals/ab/5e/b3/ab5eb35116966e8869d71e8cb64f4671.gif"> 
    </div>
   
   #
-<div>
-                                                                                                                                                    
+<div>                                                                                                                                              
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
