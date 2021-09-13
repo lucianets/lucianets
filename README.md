@@ -4,7 +4,7 @@
 
 <div>
  <p> ✨ She/Her </p>
- <p> 💻 I'am studying system analysis and development, and  I graduated in Public Relations </p>
+ <p> 💻 I'm studying system analysis and development, and  I graduated in Public Relations </p>
  <p> ⚡ Fun fact: I love star wars, star trek and books </p>
  </div> 
  
