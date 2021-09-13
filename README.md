@@ -1,31 +1,28 @@
-<h1>Hello there, I'm Luciane</h1> 
+<h1>Hello there, I'm Luciane 🖖</h1> 
+ 
+ <img align="right" alt="me" width="150" height="150" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/19cd5ba9-577d-47a4-8410-6ebb5fadffe5/338224_SZO8LXZJ.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210913%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210913T132200Z&X-Amz-Expires=86400&X-Amz-Signature=c158a7e39ef22f02253b69fe98a31d5c75bfc8724543be9874c7974c26178c90&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22338224_SZO8LXZJ.png%22">
 
-<div> 
- <p> ⚡ Fun fact I love star wars and books, so I'am studying system analysis and development :) </p>
+<div>
+ <p> ✨ She/Her </p>
+ <p> 💻 I'am studying system analysis and development, and  I graduated in Public Relations </p>
+ <p> ⚡ Fun fact: I love star wars, star trek and books </p>
  </div> 
  
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&locale=en" alt="lucianets" />
-  <img height="150em"" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianets&show_icons=true&locale=en&layout=compact" alt="lucianets" /> </div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianets&layout=compact&langs_count=7&theme=dracula"/>
  
+</div>
   <div> 
-      <img align="right" alt="baby-yoda" width="250" height="150" src="https://i.pinimg.com/originals/ab/5e/b3/ab5eb35116966e8869d71e8cb64f4671.gif"> 
+ <img align="right" alt="baby-yoda" width="250" height="150" src="https://i.pinimg.com/originals/ab/5e/b3/ab5eb35116966e8869d71e8cb64f4671.gif"> 
    </div>
   
   #
-<div>                                                                                                                                              
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  </p>
-</div>
-  
+
   <h3 align="left">Connect with me:</h3>
 <div> 
   <a href= "mailto: luci.silvaa77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/lucianets/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://lulysnotion.notion.site/Luciane-s-notion-hub-c473b2e23be4406ab45201b5e1b7f6a2" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" target="_blank"> </a> 
+    <a href="https://open.spotify.com/user/12186211735?si=b937cf6c0cc941bf" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"> </a> 
  </div>
