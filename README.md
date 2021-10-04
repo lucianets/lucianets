@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Luciane 🖖</h1> 
+<h1 align="center">Hello there, I'm Luciane 🖖</h1> 
  
  <img align="right" alt="me" width="150" height="150" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/19cd5ba9-577d-47a4-8410-6ebb5fadffe5/338224_SZO8LXZJ.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210913%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210913T132200Z&X-Amz-Expires=86400&X-Amz-Signature=c158a7e39ef22f02253b69fe98a31d5c75bfc8724543be9874c7974c26178c90&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22338224_SZO8LXZJ.png%22">
 
