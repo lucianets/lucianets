@@ -1,12 +1,24 @@
-<h1 align="center">Hello there, I'm Luciane 🖖</h1> 
- 
- <img align="right" alt="me" width="150" height="150" src="https://i.picasion.com/pic92/49bf0a27de2da04e144e5a4291518888.gif">
+<h1 align="center">Hello there, I'm Luciane Silva ♡ </h1> 
 
-<div>
- <p> ✨ She/Her </p>
- <p> 💻 I'm studying system analysis and development, and  I graduated in Public Relations </p>
- <p> ⚡ Fun fact: I love star wars, star trek and books </p>
- </div> 
+ <img align="right" alt="me" width="300" height="300" src="https://i.picasion.com/pic92/49bf0a27de2da04e144e5a4291518888.gif">
+ 
+```js
+import Developer from ‘lucianets’;
+
+class AboutMe {
+  name   = ‘Luciane';
+  pronouns = ‘she/her‘;
+  country = '🇧🇷';
+  occupation = ‘student‘;
+  funFact = ‘I love star war, books, all around nerd lord ♡ ʕ •ᴥ•ʔ ♡ ’;
+}
+
+class Education  {
+  Reprograma = [‘front end Developer’];
+  Estácio = [‘system analysis and development‘];
+  Puc-Campinas = ['public relations’];
+}
+```
  
 <div>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
