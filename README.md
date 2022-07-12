@@ -10,7 +10,7 @@ class AboutMe {
   pronouns = ‘she/her‘;
   country = '🇧🇷';
   occupation = ‘student‘;
-  funFact = ‘I love star war, books, all around nerd lord ♡ ʕ •ᴥ•ʔ ’;
+  funFact = ‘I love star war, books, all around nerd lord ʕ •ᴥ•ʔ ’;
 }
 
 class Education  {
