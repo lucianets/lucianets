@@ -2,23 +2,15 @@
 
  <img align="right" alt="me" width="300" height="300" src="https://i.picasion.com/pic92/49bf0a27de2da04e144e5a4291518888.gif">
  
-```js
-import Developer from ‘lucianets’;
+<p align="left"> 
+ 
+  - 📖 Estudante de Analise e desenvolvimento de sistemas + 
+- 🎒 Ex-aluna da {reprograma}, minas programam e PrograMaria
+- 🎓 Sou formada em Relações Públicas 
+- ❤️ Fun Fact: sou apaixonada pelo universo de Star Wars, jogos, música e livros
 
-class AboutMe {
-  name   = ‘Luciane';
-  pronouns = ‘she/her‘;
-  country = '🇧🇷';
-  occupation = ‘student‘;
-  funFact = ‘I love star war, books, all around nerd lord’;
-}
+</p>
 
-class Education  {
-  Reprograma = [‘front end Developer’];
-  Estácio = [‘system analysis and development‘];
-  Puc-Campinas = ['public relations’];
-}
-```
  
 <div>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
