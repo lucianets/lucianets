@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Luciane Silva ♡ </h1> 
 
- <img align="right" alt="me" width="300" height="300" src="https://i.picasion.com/pic92/49bf0a27de2da04e144e5a4291518888.gif">
+ <img align="right" alt="me" width="200" height="200" src="https://i.picasion.com/pic92/49bf0a27de2da04e144e5a4291518888.gif">
  
 <p align="left"> 
  
@@ -13,8 +13,8 @@
 
  
 <div>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianets&layout=compact&langs_count=7&theme=dracula"/>
+  <img height=" 100em" src="https://github-readme-stats.vercel.app/api?username=lucianets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianets&layout=compact&langs_count=7&theme=dracula"/>
  
 </div>
   <div> 
