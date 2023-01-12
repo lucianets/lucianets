@@ -30,6 +30,5 @@
 <div> 
   <a href= "mailto: ltsluciane@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/lucianets/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://ltsluciane.notion.site/Luciane-s-notion-hub-c473b2e23be4406ab45201b5e1b7f6a2" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" target="_blank"> </a> 
     <a href="https://open.spotify.com/user/12186211735?si=b937cf6c0cc941bf" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"> </a> 
  </div>
