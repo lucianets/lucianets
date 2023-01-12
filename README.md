@@ -6,8 +6,9 @@
  
 <p align="left"> 
  
-  - 📖 Estudante de Analise e desenvolvimento de sistemas + 
+  - 📖 Estudante de analise e desenvolvimento de sistemas + 
 - 🎒 Ex-aluna da {reprograma}, minas programam e PrograMaria
+ - 💡 #frontend #html #css #javascript #react
 - 🎓 Sou formada em Relações Públicas 
 - ❤️ Fun Fact: sou apaixonada pelo universo de Star Wars, jogos, música e livros
 
