@@ -1,7 +1,8 @@
-<h1 align="center">Hello there, I'm Luciane Silva ♡ </h1> 
+<h1 align="center">Hello there ♡ </h1> 
 
  <img align="right" alt="me" width="200" height="200" src="https://i.picasion.com/pic92/49bf0a27de2da04e144e5a4291518888.gif">
  
+ <p> Oi, eu sou a Luciane </p>
  
  
 <p align="left"> 
